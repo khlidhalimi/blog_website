@@ -80,3 +80,4 @@ So login to the admin panel using ***localhost:8000/admin/*** and you will find 
 Now you are ready to go to use the app.
 
 # blog_website
+# myBlogWebsite
